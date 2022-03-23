@@ -1,2 +1,0 @@
-# mariano
-QR code
